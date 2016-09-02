@@ -1,2 +1,4 @@
+/composer.lock
+/src/api/vendor
 .idea
 config.php

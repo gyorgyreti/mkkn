@@ -1,0 +1,18 @@
+{
+    "name": "gyorgy.reti/mkkn",
+    "authors": [
+        {
+            "name": "Réti György",
+            "email": "gyorgy.reti@protopmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex":"2.*@stable",
+        "doctrine/dbal":"2.*@stable"
+    },
+    "config": {
+        "discard-changes": true,
+        "preferred-install": "dist",
+        "vendor-dir": "src/api/vendor"
+    }
+}
